@@ -17,8 +17,6 @@ FUTURE_HOLD_REVERSE_LIQUID_INTENSITY = -0.1
 
 c = CurrencyRates()
 
-upbit_key = ('FkuPBspgFDkzTYx2cFy8uXU7xuJPvVoa0SCx9YRZ', 'HH4ThxiRxBHf1zKJxAwEgsydUx00hTmWUCVPPvn5')
-binance_key = ('mAvvEtWAonCZegyPrXxU2CHxpkDCwZA9kRqzylRfOzDFp81G4wgjPk2kzcXB2tD3', '2WWqoTczKwuEfCiuXNO1HP4e476x0ivQm1FN0neD5YeX3zGD09i35L5Qpi7LcsjB')
 
 def run_time(original_fn):
     def wrapper_fn(*args, **kwargs):
