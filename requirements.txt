@@ -1,12 +1,12 @@
 attrs==19.3.0
-autobahn==20.4.3
+autobahn==20.6.1
 Automat==20.2.0
-certifi==2020.4.5.1
+certifi==2020.4.5.2
 cffi==1.14.0
 chardet==3.0.4
 constantly==15.1.0
 cryptography==2.9.2
-dateparser==0.7.4
+dateparser==0.7.6
 hyperlink==19.0.0
 idna==2.8
 incremental==17.5.0
@@ -19,7 +19,7 @@ pyOpenSSL==19.1.0
 python-binance==0.7.5
 python-dateutil==2.8.1
 pytz==2020.1
-regex==2020.5.14
+regex==2020.6.8
 requests==2.21.0
 service-identity==18.1.0
 six==1.15.0
@@ -28,5 +28,5 @@ txaio==20.4.1
 tzlocal==2.1
 upbitpy==1.0.1
 urllib3==1.24.3
-websocket-client==0.52.0
+websockets==8.1
 zope.interface==5.1.0
