@@ -27,6 +27,6 @@ Twisted==20.3.0
 txaio==20.4.1
 tzlocal==2.1
 upbitpy==1.0.1
-urllib3==1.24.3
+urllib3==1.26.5
 websockets==8.1
 zope.interface==5.1.0
