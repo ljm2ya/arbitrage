@@ -28,5 +28,5 @@ txaio==20.4.1
 tzlocal==2.1
 upbitpy==1.0.1
 urllib3==1.24.3
-websockets==8.1
+websockets==9.1
 zope.interface==5.1.0
