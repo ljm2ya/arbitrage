@@ -23,7 +23,7 @@ regex==2020.6.8
 requests==2.21.0
 service-identity==18.1.0
 six==1.15.0
-Twisted==20.3.0
+Twisted==22.1.0
 txaio==20.4.1
 tzlocal==2.1
 upbitpy==1.0.1
